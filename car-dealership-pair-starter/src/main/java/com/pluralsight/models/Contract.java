@@ -17,6 +17,9 @@ public abstract class Contract {
         this.monthlyPayment = monthlyPayment;
     }
 
+    protected Contract() {
+    }
+
     public String getDate() {
         return date;
     }
