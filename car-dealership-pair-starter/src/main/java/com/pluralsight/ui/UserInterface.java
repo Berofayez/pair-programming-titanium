@@ -1,7 +1,7 @@
-package com.pluralsight.ui;
+package main.java.com.pluralsight.ui;
 
-import com.pluralsight.models.Dealership;
-import com.pluralsight.models.Vehicle;
+import main.java.com.pluralsight.models.Dealership;
+import main.java.com.pluralsight.models.Vehicle;
 
 import java.util.ArrayList;
 import java.util.Scanner;

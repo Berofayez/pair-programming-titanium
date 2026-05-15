@@ -1,8 +1,8 @@
 package main.java.com.pluralsight.application;
 
-import com.pluralsight.models.Dealership;
-import com.pluralsight.models.Vehicle;
-import com.pluralsight.ui.UserInterface;
+import main.java.com.pluralsight.models.Dealership;
+import main.java.com.pluralsight.models.Vehicle;
+import main.java.com.pluralsight.ui.UserInterface;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.pluralsight.ui;
+package main.java.com.pluralsight.ui;
 
 public class ColorCodes 
 {

@@ -1,6 +1,6 @@
 package main.java.com.pluralsight.models;
 
-import com.pluralsight.io.DealershipFileManager;
+import main.java.com.pluralsight.io.DealershipFileManager;
 
 import java.util.ArrayList;
 import java.util.stream.Collectors;
