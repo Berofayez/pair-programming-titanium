@@ -1,4 +1,4 @@
-package main.java.com.pluralsight.models;
+package com.pluralsight.models;
 
 public class Vehicle
 {

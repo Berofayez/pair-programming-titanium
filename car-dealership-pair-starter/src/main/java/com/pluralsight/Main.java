@@ -1,8 +1,8 @@
-package main.java.com.pluralsight;
+package com.pluralsight;
 
-import main.java.com.pluralsight.application.DealershipApplication;
-import main.java.com.pluralsight.models.Dealership;
-import main.java.com.pluralsight.io.DealershipFileManager;
+import com.pluralsight.application.DealershipApplication;
+import com.pluralsight.models.Dealership;
+import com.pluralsight.io.DealershipFileManager;
 
 import java.io.IOException;
 
